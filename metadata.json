@@ -1,0 +1,7 @@
+{
+  "name": "맛집 랜덤 추천 ",
+  "description": "",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
